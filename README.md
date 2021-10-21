@@ -11,8 +11,8 @@
 ## `SETTING`
 
 - Owner number [Here](https://github.com/Ag-Gilang/bota8/blob/master/settings.json#L4)
-- Owner name [Here](https://github.com/Ag-Gilang/bota8/blob/master/settings.json#L13)
-- Botname [Here](https://github.com/Ag-Gilang/bota8/blob/master/settings.json#L14)
+- Owner name [Here](https://github.com/Ag-Gilang/bota8/blob/master/settings.json#L16)
+- Botname [Here](https://github.com/Ag-Gilang/bota8/blob/master/settings.json#L17)
 
 ## `CHANGE DYNO`
 
